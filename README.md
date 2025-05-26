@@ -1,4 +1,4 @@
-# Vorratsmanager – dein intelligentes Lebensmittellogistiksystem
+# Vorratsmanager – ein vielseitiges Lebensmittellogistiksystem
 
 Ein lokal oder serverseitig betreibbarer Vorrats- und Einkaufsmanager mit Rezeptvorschlägen, Verbrauchsanalyse und automatischer Einkaufsliste.  
 Frontend in HTML/CSS/JS – Backend in Java (Spring Boot) – Datenhaltung über SQLite.
