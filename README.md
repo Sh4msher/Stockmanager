@@ -12,7 +12,7 @@ Frontend in HTML/CSS/JS – Backend in Java (Spring Boot) – Datenhaltung über
 **Use-Cases:**
 - Hinzufügen von Lebensmitteln beim Einkauf (Menge, Preis, Haltbarkeit, Lagerort)
 - Anzeige verfügbarer Lebensmittel mit Filterfunktionen
-- Markierung von „verbraucht“ oder „weggeworfen“
+- Markierung von "verbraucht“, "weggeworfen“ oder "abgelaufen"
 - Rezeptvorschläge basierend auf Vorrat
 - Automatische Einkaufsliste bei fehlenden Zutaten
 - Statistische Auswertung: Ausgaben, Verbrauchsverhalten, Lagerdauer, Ernährungsmuster
