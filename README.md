@@ -1,11 +1,11 @@
-# 🥫 Vorratsmanager – dein intelligentes Lebensmittellogistiksystem
+# Vorratsmanager – dein intelligentes Lebensmittellogistiksystem
 
 Ein lokal oder serverseitig betreibbarer Vorrats- und Einkaufsmanager mit Rezeptvorschlägen, Verbrauchsanalyse und automatischer Einkaufsliste.  
 Frontend in HTML/CSS/JS – Backend in Java (Spring Boot) – Datenhaltung über SQLite.
 
 ---
 
-## 💡 Projektidee
+## Projektidee
 
 **Ziel**: Vollständige Verwaltung des persönlichen Lebensmittelvorrats mit Fokus auf Alltagstauglichkeit, Automatisierung und Datenauswertung.
 
@@ -19,7 +19,7 @@ Frontend in HTML/CSS/JS – Backend in Java (Spring Boot) – Datenhaltung über
 
 ---
 
-## 📦 Projektstruktur
+## Projektstruktur
 
 ```plaintext
 vorratsmanager/
